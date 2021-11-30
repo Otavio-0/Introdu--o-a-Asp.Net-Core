@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+n3gJBM3DV/ZN8RdcLXPg31LeceT1uoR8gM8YwcLnZ2ZYeooJuXN8rKZO+r9w4dDFmNq0xHCm56z7xiGSb4u+A==",
+  "dgSpecHash": "dbT5rWEzkFzZ3SGx9X/fHJ6NJRQb3cP5+LNKvscQxnxB65ZYG1JSGN5rmYLUiVzfnhOBz3XgPPucVplRZ5qPeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\otavi\\Documents\\MeusProjetos\\DotNet\\AppWeb\\AppWeb.csproj",
+  "projectFilePath": "C:\\Users\\otavi\\Documents\\MeusProjetos\\Introdu--o-a-Asp.Net-Core\\AppWeb\\AppWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otavi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],

@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\otavi\\Documents\\MeusProjetos\\DotNet\\AppWeb\\AppWeb.csproj",
+      "projectUniqueName": "C:\\Users\\otavi\\Documents\\MeusProjetos\\Introdu--o-a-Asp.Net-Core\\AppWeb\\AppWeb.csproj",
       "projectName": "AppWeb",
-      "projectPath": "C:\\Users\\otavi\\Documents\\MeusProjetos\\DotNet\\AppWeb\\AppWeb.csproj",
+      "projectPath": "C:\\Users\\otavi\\Documents\\MeusProjetos\\Introdu--o-a-Asp.Net-Core\\AppWeb\\AppWeb.csproj",
       "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\otavi\\Documents\\MeusProjetos\\DotNet\\AppWeb\\obj\\",
+      "outputPath": "C:\\Users\\otavi\\Documents\\MeusProjetos\\Introdu--o-a-Asp.Net-Core\\AppWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\otavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
